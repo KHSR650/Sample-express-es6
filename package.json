@@ -1,10 +1,11 @@
 {
-  "name": "sample-express-es6",
+  "name": "question-tags-mapping",
   "version": "0.0.0",
   "private": true,
   "scripts": {
     "start": "babel-node ./bin/www",
-    "dev": "nodemon ./bin/www --exec babel-node"
+    "dev": "nodemon ./bin/www --exec babel-node",
+    "seed": "babel-node seeding/seeders.js"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
@@ -12,7 +13,10 @@
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
-    "morgan": "~1.9.1"
+    "mongoose": "^5.7.7",
+    "morgan": "~1.9.1",
+    "natural": "^0.6.3",
+    "request": "^2.88.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",

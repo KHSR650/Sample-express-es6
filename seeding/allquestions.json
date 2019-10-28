@@ -1,0 +1,530 @@
+﻿[
+  {
+    "question": "The first question is an easy one! Do you wish to apply for a mortgage?"
+  },
+  {
+    "question": " Do you wish to apply for a [insert mortgage type] from [insert financial institution or mortgage broker]?"
+  },
+  {
+    "question": "Have you missed loan payments in the past?"
+  },
+  {
+    "question": "Which option best represents your current personal credit score?"
+  },
+  {
+    "question": "Please add your debt (credit cards, loans, payments, mortgage) and your assets (property, investments, etc.) together. What best describes the result?"
+  },
+  {
+    "question": "What your current pre-tax household income?"
+  },
+  {
+    "question": "Have you ever defaulted on a loan?"
+  },
+  {
+    "question": "What is the approximate amount you would need to borrow?"
+  },
+  {
+    "question": "What is the total amount you can put down for a downpayment?"
+  },
+  {
+    "question": "Please describe the property you are looking to buy. I.e. is it your first home? Second-home? Investment property? Is it a condo or a single-family home? Try to give details that are relevant to a loan such as property type, location, size, etc."
+  },
+  {
+    "question": "Do you currently own a home?"
+  },
+  {
+    "question": "If you meet our mortgage criteria based on your answers, what questions do you have for us when we meet?"
+  },
+  {
+    "question": "Is there anything else we need to know about your finances or employment?"
+  },
+  {
+    "question": "One last item. Please type YES to confirm that all of your answers are correct to the best of your knowledge."
+  },
+  {
+    "question": "The first question is an easy one. Do you intend to purchase a new property?"
+  },
+  {
+    "question": "What is the approximate price range for the property you are looking to purchase?"
+  },
+  {
+    "question": "Can you put down at least a 20% downpayment?"
+  },
+  {
+    "question": "Are you pre-approved for the loan amount? I.e. the approximate difference between your downpayment and the price of the property."
+  },
+  {
+    "question": "When are you looking to buy?"
+  },
+  {
+    "question": "Do you currently own a home?"
+  },
+  {
+    "question": "We only work with exclusive contracts for set periods of time if you choose to work with us. Is that an issue?"
+  },
+  {
+    "question": "Explain what steps would need to happen if your ideal home becomes available tomorrow. I.e. do you need to sell your current home? Could you make an offer right away? What other things might impact your decision?"
+  },
+  {
+    "question": "What are three areas that you would like to look in?"
+  },
+  {
+    "question": "Describe the property you are looking to buy. How big is it? How many bedrooms? Bathrooms? Near a school? Transportation? Quiet? Busy? Lots of trees? Water? I want to get a good picture of what success looks like."
+  },
+  {
+    "question": "If you are buying the home with a significant other/family member/business partner ... are there any areas of contention? Sometimes different buyers have different preferences. If yes, please briefly describe them."
+  },
+  {
+    "question": "What are deal breakers for you? Things like traffic noise, neighbor proximity, distance to transit, etc. Its better for us to understand that upfront so please be as descriptive as possible."
+  },
+  {
+    "question": "What questions do you have for me if we meet?"
+  },
+  {
+    "question": "One last item. Is the information you have provided accurate to the best of your knowledge?"
+  },
+  {
+    "question": "To confirm … are you applying to rent [Insert Building Name and Address]?"
+  },
+  {
+    "question": "Are you able to provide at least [insert number of references] from previous landlords as well as your current employer?"
+  },
+  {
+    "question": "Are you currently employed full-time AND are you beyond your probationary period OR do you have a pension or consistent source of income?"
+  },
+  {
+    "question": "Are you able to provide us with your 2 most recent pay stubs?"
+  },
+  {
+    "question": "Are you able to put down the required damage deposit down payment which is [insert minimum downpayment $$$]?"
+  },
+  {
+    "question": "How long have you been working at your current employer?"
+  },
+  {
+    "question": "What is your monthly income?"
+  },
+  {
+    "question": "Have you ever missed rent payments, defaulted on your rent or declared for bankruptcy?"
+  },
+  {
+    "question": "How many individuals will be living in the unit?"
+  },
+  {
+    "question": "Will you consent for us to do a credit and background check? (If yes, we will get a signed consent form from you when we meet)"
+  },
+  {
+    "question": "Do you smoke?"
+  },
+  {
+    "question": "Do you have a pet? (do not include fish or birds)"
+  },
+  {
+    "question": "Please provide information on your current landlord (name of landlord, contact information and building location)."
+  },
+  {
+    "question": "Do you plan to move in on [insert date]?"
+  },
+  {
+    "question": "Assuming we get a scheduled call, what are some of the questions that you have for us? (examples: family friendly, Lease term, Payment options, etc.)"
+  },
+  {
+    "question": "Is there anything else that you think we should know that might be relevant to your tenant application?"
+  },
+  {
+    "question": "Last item. Please confirm that all of the information you have given is correct and truthful to the best of your knowledge."
+  },
+  {
+    "question": "Are you looking to sell property?"
+  },
+  {
+    "question": "Are you the property owner?"
+  },
+  {
+    "question": "Is your house located in [insert relevant area]?"
+  },
+  {
+    "question": "Are you looking to sell your home and work with us to purchase another home as well?"
+  },
+  {
+    "question": "How long has your home been on the market? If you have not yet had it listed simply choose -1 to 0. "
+  },
+  {
+    "question": "How many years have you owned the home?"
+  },
+  {
+    "question": "How soon would you like to sell the property?"
+  },
+  {
+    "question": "Have you already tried to sell the home with a different realtor?"
+  },
+  {
+    "question": "Is your property on Leasehold land?"
+  },
+  {
+    "question": "How many SQF is your property?"
+  },
+  {
+    "question": "How many bedrooms does your property have?"
+  },
+  {
+    "question": "What price approximately would you like to get for your property?"
+  },
+  {
+    "question": "What are 5 great things about your home that will help me sell it?"
+  },
+  {
+    "question": "What are 5 things that will make it more difficult to sell?"
+  },
+  {
+    "question": "What questions do you have for me?"
+  },
+  {
+    "question": "One last item. Can you please confirm that all of the information you have given me us correct to the best of your knowledge?"
+  },
+  {
+    "question": "The first question is an easy one! Do you wish to apply for the [insert position]?"
+  },
+  {
+    "question": "Can you legally work in [insert relevant State/Province/Country]"
+  },
+  {
+    "question": "Are you aware that the answers you provide here will be part of a permanent record and may affect your hiring and/or later employment with us if they are found to be false?"
+  },
+  {
+    "question": "Do you meet or exceed the minimum education requirements for this position?"
+  },
+  {
+    "question": "Do you meet or exceed the minimum job related experience requirements for this position?"
+  },
+  {
+    "question": "What best describes your past when it comes to quota attainment?"
+  },
+  {
+    "question": "How much time are you willing to be on the road?"
+  },
+  {
+    "question": "Do you have at least [insert years] experience selling [insert solution type]?"
+  },
+  {
+    "question": "Are you familiar with [insert sales methodology]?"
+  },
+  {
+    "question": "What is your OTE (base + commission) salary expectations for this position?"
+  },
+  {
+    "question": "This position is scheduled to work from [insert day] to [insert day], [insert start] to [insert end time]. Do you have\nschedule restrictions that prevent you from working at certain times?\n"
+  },
+  {
+    "question": "Give us three sales accomplishments you are most proud of."
+  },
+  {
+    "question": "Why are you seeking a new position at this time?"
+  },
+  {
+    "question": "Tell us about how you handled a difficult situation with a prospect."
+  },
+  {
+    "question": "What questions do you have for us if we decide to meet in person?"
+  },
+  {
+    "question": "Please type YES to confirm that all of the information you have given us is correct and truthful."
+  },
+  {
+    "question": "The first question is an easy one! Do you wish to apply for the [insert position]?"
+  },
+  {
+    "question": "Can you legally work in [insert relevant State/Province/Country]"
+  },
+  {
+    "question": "Are you aware that the answers you provide here will be part of a permanent record and may affect your hiring and/or later employment with us if they are found to be false?"
+  },
+  {
+    "question": "Do you meet or exceed the minimum education requirements for this position?"
+  },
+  {
+    "question": "Do you meet or exceed the minimum job-related experience requirements for this position?"
+  },
+  {
+    "question": "Do you feel you are overqualified for this position?"
+  },
+  {
+    "question": "Are you highly proficient in [insert relevant language(s)?]"
+  },
+  {
+    "question": "Please choose your comfort level with [insert software]"
+  },
+  {
+    "question": "What salary range are you expecting?"
+  },
+  {
+    "question": "Would other people describe you as a people person?"
+  },
+  {
+    "question": "This position is scheduled to work from [insert day] to [insert day], [insert start time] to [insert end time]. Do you have\nschedule restrictions that prevent you from working at certain times?\n"
+  },
+  {
+    "question": "What does good customer service mean to you?"
+  },
+  {
+    "question": "What appeals to you about this role specifically?"
+  },
+  {
+    "question": "Can you describe a time when you had to say “no” to an important customer’s request?"
+  },
+  {
+    "question": "Can you tell me about a time when you needed to convince a teammate to change the way they were working (e.g., adopt a new procedure or modify their approach), and how you did that?"
+  },
+  {
+    "question": "Why are you seeking a new position at this time?"
+  },
+  {
+    "question": "Please confirm by typing YES that all of the information you have provided is correct to the best of your knowledge."
+  },
+  {
+    "question": "The first question is an easy one! Do you wish to apply for the [insert position]?"
+  },
+  {
+    "question": "Can you legally work in [insert relevant State/Province/Country]?"
+  },
+  {
+    "question": "Are you aware that the answers you provide here will be part of a permanent record and may affect your hiring and/or later employment with us if they are found to be false?"
+  },
+  {
+    "question": "Do you meet or exceed the minimum education requirements for this position?"
+  },
+  {
+    "question": "Do you meet or exceed the minimum job-related experience requirements for this position?"
+  },
+  {
+    "question": "Do you feel you are overqualified for this position?"
+  },
+  {
+    "question": "Are you highly proficient in ENGLISH?"
+  },
+  {
+    "question": "What best describes your retail sales experience"
+  },
+  {
+    "question": "What hourly salary range are you expecting from this position?"
+  },
+  {
+    "question": "Do you have a reliable way to get to work on time for each shift so you are on time?"
+  },
+  {
+    "question": "This position is scheduled to work from [insert day] to [insert day], [insert start time] to [insert end time]. Do you have schedule restrictions that prevent you from working at certain times?"
+  },
+  {
+    "question": "Please briefly describe your experience in retail sales or an area that you feel is relevant."
+  },
+  {
+    "question": "Why are you seeking a new position at this time?"
+  },
+  {
+    "question": "What questions do you have for us if we decide to meet in person?"
+  },
+  {
+    "question": "Can you please confirm that all of the answers you have provided above are truthful?"
+  },
+  {
+    "question": "The first question is an easy one! Do you wish to apply for the [insert position]?"
+  },
+  {
+    "question": "Can you legally work in [insert relevant State/Province/Country]?"
+  },
+  {
+    "question": "Are you aware that the answers you provide here will be part of a permanent record and may affect your hiring and/or later employment with us if they are found to be false?"
+  },
+  {
+    "question": "Do you meet or exceed the minimum education requirements for this position?"
+  },
+  {
+    "question": "Do you meet or exceed the minimum job-related experience requirements for this position?"
+  },
+  {
+    "question": "Which best describes your current work status ..."
+  },
+  {
+    "question": "What approximate salary are you hoping to get from this position given your experience?"
+  },
+  {
+    "question": "Tell me about yourself in 3 sentences."
+  },
+  {
+    "question": "What is the most difficult change you’ve encountered in your career?"
+  },
+  {
+    "question": "Give me an example of a time when you’ve had to be creative or unconventional in solving a problem."
+  },
+  {
+    "question": "How do you deal with situations where there is tension between you and a colleague?"
+  },
+  {
+    "question": "How do you stay motivated when working on a project that doesn’t interest you?"
+  },
+  {
+    "question": "Explain what constructive criticism means to you."
+  },
+  {
+    "question": "What work-situations get you most stressed?"
+  },
+  {
+    "question": "Describe the type of work environment in which you are most productive."
+  },
+  {
+    "question": "How do you prepare to deliver a key presentation?"
+  },
+  {
+    "question": "What is your most effective technique for winning someone over when negotiating?"
+  },
+  {
+    "question": "Have you provided answers that are all truthful to the best of your knowledge?"
+  },
+  {
+    "question": "The first question is an easy one! Do you wish to apply for the [insert position]?"
+  },
+  {
+    "question": "Can you legally work in [insert relevant State/Province/Country]?"
+  },
+  {
+    "question": "Are you aware that the answers you provide here will be part of a permanent record and may affect your hiring and/or later employment with us if they are found to be false?"
+  },
+  {
+    "question": "Do you meet or exceed the minimum education requirements for this position?"
+  },
+  {
+    "question": "Do you meet or exceed the minimum job-related experience requirements for this position?"
+  },
+  {
+    "question": "Are you highly proficient in [insert relevant languages]? I.e. can you speak fluently, write well and communicate clearly?"
+  },
+  {
+    "question": "How many words per minute (WPM) approximately can you type?"
+  },
+  {
+    "question": "Please choose your comfort level with [insert software]:"
+  },
+  {
+    "question": "What salary range are you expecting from this position?"
+  },
+  {
+    "question": "What best describes your preferred work schedule:"
+  },
+  {
+    "question": "This position is scheduled to work from [insert day] to [insert day], [insert start time] to [insert end time]. Do you have schedule restrictions that prevent you from working at certain times?"
+  },
+  {
+    "question": "Please briefly describe your work experience as an administrative assistant."
+  },
+  {
+    "question": "Why are you seeking a new position at this time?"
+  },
+  {
+    "question": "What questions do you have for us if we decide to meet in person?"
+  },
+  {
+    "question": "The first question is an easy one! Do you wish to apply for the [insert position]?"
+  },
+  {
+    "question": "Can you legally work in [insert relevant State/Province/Country]?"
+  },
+  {
+    "question": "Are you aware that the answers you provide here will be part of a permanent record and may affect your hiring and/or later employment with us if they are found to be false?"
+  },
+  {
+    "question": "Do you meet or exceed the minimum education requirements for this position?"
+  },
+  {
+    "question": "Do you meet or exceed the minimum job-related experience requirements for this position?"
+  },
+  {
+    "question": "Are you highly proficient in [insert relevant languages]? I.e. can you speak fluently, write well and communicate clearly?"
+  },
+  {
+    "question": "How many words per minute (WPM) approximately can you type?"
+  },
+  {
+    "question": "Please choose your comfort level with [insert software]:"
+  },
+  {
+    "question": "What salary range are you expecting from this position?"
+  },
+  {
+    "question": "What best describes your preferred work schedule:"
+  },
+  {
+    "question": "Please briefly describe your work experience as an administrative assistant."
+  },
+  {
+    "question": "Tell us about how you handled a difficult situation with a colleague or customer at work."
+  },
+  {
+    "question": "What questions do you have for us if we decide to meet in person?"
+  },
+  {
+    "question": "Is all of the information you have provided truthful to the best of your knowledge?"
+  },
+  {
+    "question": "Have you done research into our organization and how specifically your solution might benefit us?"
+  },
+  {
+    "question": "Do you have three referenceable customers in the [insert vertical] industry that you can provide if we meet?"
+  },
+  {
+    "question": "Can you provide a relevant example (i.e. which approximates our need) where your solution or services has made a quantifiable difference? (i.e. you will share metrics with us on improvements your solution or services made to a relevant customer)"
+  },
+  {
+    "question": "Has your company or have your services recently experienced a major security breach?"
+  },
+  {
+    "question": "Does the [insert vertical] industry equate to a significant portion of your annual revenue (i.e. >10%)?"
+  },
+  {
+    "question": "This will require some estimation on your part. What is the average annual cost of your solutions?"
+  },
+  {
+    "question": "Choose the answer that best describes your companies top priority"
+  },
+  {
+    "question": "What do you offer in terms of training?"
+  },
+  {
+    "question": "What channels will I have to communicate with you if I become a customer?"
+  },
+  {
+    "question": "Has company been in business for more than 5 years?"
+  },
+  {
+    "question": "How many employees do you have?"
+  },
+  {
+    "question": "Do you offer fixed annual or multi-year pricing? (I.e. if I commit to a term will I get a fixed price that does not fluctuate?)"
+  },
+  {
+    "question": "What timeframe best describes your payment terms?"
+  },
+  {
+    "question": "Do you offer a solution service level agreement and/or a warranty for your services?"
+  },
+  {
+    "question": "How do you gather feedback from your customers?"
+  },
+  {
+    "question": "Did you reach out because you were referred by one of our clients or partners?"
+  },
+  {
+    "question": "What does it mean to you to partner with a business like ours?"
+  },
+  {
+    "question": "What are your goals for the meeting if we get time to connect?"
+  },
+  {
+    "question": "Can you briefly describe your experience working in the  [insert vertical] industry?"
+  },
+  {
+    "question": "Assuming we get a scheduled call, can you describe who would be on that initial call?"
+  },
+  {
+    "question": "Is there anything else you would like me to know if we meet?"
+  }
+]
